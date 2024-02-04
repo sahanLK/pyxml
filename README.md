@@ -1,2 +1,2 @@
 # pyxml
-All-in-one XML handler for Python
+All-in-one lightweight XML handler for Python
